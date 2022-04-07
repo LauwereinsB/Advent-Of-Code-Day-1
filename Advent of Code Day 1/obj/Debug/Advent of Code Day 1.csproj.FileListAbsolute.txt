@@ -1,0 +1,15 @@
+D:\Users\Benji\source\repos\Advent of Code Day 1\Advent of Code Day 1\bin\Debug\Advent of Code Day 1.exe.config
+D:\Users\Benji\source\repos\Advent of Code Day 1\Advent of Code Day 1\bin\Debug\Advent of Code Day 1.exe
+D:\Users\Benji\source\repos\Advent of Code Day 1\Advent of Code Day 1\bin\Debug\Advent of Code Day 1.pdb
+D:\Users\Benji\source\repos\Advent of Code Day 1\Advent of Code Day 1\obj\Debug\Advent of Code Day 1.csproj.AssemblyReference.cache
+D:\Users\Benji\source\repos\Advent of Code Day 1\Advent of Code Day 1\obj\Debug\MainWindow.g.cs
+D:\Users\Benji\source\repos\Advent of Code Day 1\Advent of Code Day 1\obj\Debug\App.g.cs
+D:\Users\Benji\source\repos\Advent of Code Day 1\Advent of Code Day 1\obj\Debug\Advent of Code Day 1_MarkupCompile.cache
+D:\Users\Benji\source\repos\Advent of Code Day 1\Advent of Code Day 1\obj\Debug\Advent of Code Day 1_MarkupCompile.lref
+D:\Users\Benji\source\repos\Advent of Code Day 1\Advent of Code Day 1\obj\Debug\MainWindow.baml
+D:\Users\Benji\source\repos\Advent of Code Day 1\Advent of Code Day 1\obj\Debug\Advent of Code Day 1.g.resources
+D:\Users\Benji\source\repos\Advent of Code Day 1\Advent of Code Day 1\obj\Debug\Advent_of_Code_Day_1.Properties.Resources.resources
+D:\Users\Benji\source\repos\Advent of Code Day 1\Advent of Code Day 1\obj\Debug\Advent of Code Day 1.csproj.GenerateResource.cache
+D:\Users\Benji\source\repos\Advent of Code Day 1\Advent of Code Day 1\obj\Debug\Advent of Code Day 1.csproj.CoreCompileInputs.cache
+D:\Users\Benji\source\repos\Advent of Code Day 1\Advent of Code Day 1\obj\Debug\Advent of Code Day 1.exe
+D:\Users\Benji\source\repos\Advent of Code Day 1\Advent of Code Day 1\obj\Debug\Advent of Code Day 1.pdb
